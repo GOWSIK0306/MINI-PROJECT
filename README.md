@@ -109,12 +109,26 @@ The dataset used in this project was collected from publicly available online so
 * **Category Movement Analysis:** Created a **Matrix Table** to identify the maximum and minimum movement across different categories.
 * **Interactive Filtering:** Used slicers to filter and analyze the report based on selected categories.
 
-### Key Insight
+## Key Insights
 
-* The visualizations help identify **sales trends, category performance, profit contribution, and high- and low-performing categories**.
-* The report makes it easier to compare categories and understand overall business performance through interactive visual
+* Identified year-wise sales and turnover trends from 2020 to 2025.
+* Compared category-wise sales and profit performance.
+* Identified categories with higher and lower profit margins.
+* Analyzed state-wise sales performance to identify strong and weak markets.
+* Identified maximum and minimum product movement across categories.
+* Used interactive filters to analyze specific categories and business performance.
+* The analysis helps understand sales trends, profitability, and overall business performance.
 
-Dashboard screenshort.png
+
+
+## Conclusion
+
+* Successfully analyzed sales data from 2020 to 2025 using Excel and Power BI.
+* Cleaned and transformed the data to improve data quality and accuracy.
+* Analyzed year-wise, category-wise, and state-wise sales performance.
+* Created interactive visualizations to identify sales trends and profitability.
+* Generated meaningful insights to understand business performance and support better decision-making.
+
 
 
   
