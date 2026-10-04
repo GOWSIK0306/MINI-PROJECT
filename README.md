@@ -114,6 +114,9 @@ The dataset used in this project was collected from publicly available online so
 * The visualizations help identify **sales trends, category performance, profit contribution, and high- and low-performing categories**.
 * The report makes it easier to compare categories and understand overall business performance through interactive visual
 
+Dashboard screenshort.png
+
+
   
 
 
