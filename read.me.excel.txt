@@ -1,0 +1,44 @@
+// DATA GATHERING
+
+The first step is working in Excel and gathering data. I collected the data (raw data) from Google sources.
+
+// DATA CLEANING
+ 
+1.Remove Duplicates.
+     I checked the duplicates .There no duplicates in my dataset.
+2.Missing values   
+        There are no missing values in my dataset. I used to[Count blank] function.
+3.Clean data
+        I used functions;
+                   ----CLEAN----
+                   ----TRIM-----
+4.Text to column
+        Dataset there are textformat.so I changed it through text to column .
+5.Check the every column characters through in Filter. All is good.
+
+//TRANSFORMATION OF DATA
+ 
+         - Change the format each column as a specific {e.g. amount column change format currency)
+         - Color formatting
+
+//ANALYZE DATA
+  
+          -I used an aggregation functions to understand the  sales.
+          -I created summarize using sum ,count ,average etc.
+          -I created  three columns for my analyzes
+                     pricing per unit---------(amount-profit)/qty
+                     profitability---------(average profit > profit "profitable" ,"unprofitable")
+                     earnings status----below 3000   "low earnings"
+                                        below 6000   "mid level"
+                                        below 10000  "high earnings"
+          -I created the pivot table for my quick analyzes
+          -I taken sum of profit  & amount , max  of profit & amount , min of profit & amount 
+           each by categories
+          -Then i taken count of qty by state 
+
+ //TRANSFORMING DATA  
+                           
+                   -Applied the conditional formatting in amount & profit column
+                   -color format input the table 
+                                             
+      
